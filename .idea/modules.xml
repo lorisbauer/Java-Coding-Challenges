@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3DRayMarching/3DRayMarching.iml" filepath="$PROJECT_DIR$/3DRayMarching/3DRayMarching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kruskal/Kruskal.iml" filepath="$PROJECT_DIR$/Kruskal/Kruskal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinHeap/MinHeap.iml" filepath="$PROJECT_DIR$/MinHeap/MinHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoiseMap/NoiseMap.iml" filepath="$PROJECT_DIR$/NoiseMap/NoiseMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RekursiveTree/RekursiveTree.iml" filepath="$PROJECT_DIR$/RekursiveTree/RekursiveTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rotation/Rotation.iml" filepath="$PROJECT_DIR$/Rotation/Rotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShortestPath/ShortestPath.iml" filepath="$PROJECT_DIR$/ShortestPath/ShortestPath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+    </modules>
+  </component>
+</project>
